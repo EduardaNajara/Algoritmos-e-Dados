@@ -3,4 +3,4 @@ project(Alura)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Alura numGame.cpp)
+add_executable(Alura hangman.cpp)

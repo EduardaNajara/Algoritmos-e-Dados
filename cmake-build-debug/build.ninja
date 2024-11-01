@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/eduarda-najara-silva-machado/CLionProjects/Alura/cma
 
 build cmake_object_order_depends_target_Alura: phony || .
 
-build CMakeFiles/Alura.dir/numGame.cpp.o: CXX_COMPILER__Alura_unscanned_Debug /home/eduarda-najara-silva-machado/CLionProjects/Alura/numGame.cpp || cmake_object_order_depends_target_Alura
-  DEP_FILE = CMakeFiles/Alura.dir/numGame.cpp.o.d
+build CMakeFiles/Alura.dir/hangman.cpp.o: CXX_COMPILER__Alura_unscanned_Debug /home/eduarda-najara-silva-machado/CLionProjects/Alura/hangman.cpp || cmake_object_order_depends_target_Alura
+  DEP_FILE = CMakeFiles/Alura.dir/hangman.cpp.o.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Alura.dir
   OBJECT_FILE_DIR = CMakeFiles/Alura.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Alura.dir/numGame.cpp.o: CXX_COMPILER__Alura_unscanned_Debug /h
 #############################################
 # Link the executable Alura
 
-build Alura: CXX_EXECUTABLE_LINKER__Alura_Debug CMakeFiles/Alura.dir/numGame.cpp.o
+build Alura: CXX_EXECUTABLE_LINKER__Alura_Debug CMakeFiles/Alura.dir/hangman.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Alura.dir
   POST_BUILD = :

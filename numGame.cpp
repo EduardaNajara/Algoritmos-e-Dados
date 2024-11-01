@@ -3,8 +3,7 @@
 #include <ctime>
 using namespace std;
 
-[[noreturn]] int main()
-{
+int main() {
     cout << "*******************" << endl;
     cout << "* Divination Game *" << endl;
     cout << "*******************" << endl;
