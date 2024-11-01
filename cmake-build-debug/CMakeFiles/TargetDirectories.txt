@@ -1,0 +1,3 @@
+/home/eduarda-najara-silva-machado/CLionProjects/Alura/cmake-build-debug/CMakeFiles/Alura.dir
+/home/eduarda-najara-silva-machado/CLionProjects/Alura/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eduarda-najara-silva-machado/CLionProjects/Alura/cmake-build-debug/CMakeFiles/rebuild_cache.dir
